@@ -1,2 +1,3 @@
 # Mysql-Python
-Additional stuff for python course
+This repo contains exercises and additional sources for mysql-python course.
+
